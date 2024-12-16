@@ -1,6 +1,3 @@
-Here’s a `README.md` for your **Learn Ethical Hacking from Scratch** repository, incorporating icons and animations:
-
-```markdown
 # Learn Ethical Hacking from Scratch
 
 <a href="https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059">
